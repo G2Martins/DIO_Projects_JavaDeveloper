@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="600" src=".github/assets/Banner.jpg">
+  <img width="600" height="400" src=".github/assets/Banner.jpg">
 </p>
 
 
@@ -9,7 +9,11 @@ Repositório criado para armazenar os projetos desenvolvidos
 durante o Bootcamp Fullstack Java Com Angular e Javascript da [Digital Innvoation One](https://www.dio.me).
 
 ## 📚 Documentação
-- [Repositório Curso DIO](https://github.com/felipeAguiarCode/angular-playground/tree/main)
+- [Repositório Curso DIO](https://github.com/digitalinnovationone/trilha-java-basico)
+- [Repositório Curso DIO SpringBoot](https://github.com/digitalinnovationone/dio-springboot)
+- [Repositório Introdutório Collections Java](https://github.com/cami-la/curso-dio-intro-collections)
+- [Ganhando Produtividade com Stream API e Java](https://github.com/digitalinnovationone/ganhando_produtividade_com_Stream_API_Java)
+- [Collection Framework API](https://github.com/cami-la/collections-java-api-2023)
 
 ## 💻 Resumos das Aulas
 
@@ -22,12 +26,5 @@ durante o Bootcamp Fullstack Java Com Angular e Javascript da [Digital Innvoatio
 | Java | [Clique aqui](https://github.com/G2Martins/DIO_Projects_FullStack_Bootcamp/tree/main/Typescript) |
 
 
-```
-A Main() Do Céu 🙏🏽🙌🏽
-```
-
 ## 🔍 Referências
 - [Digital Innvoation One](https://www.dio.me)
-- [Angular Documentation](https://angular.dev/overview)
-- [StackBlitz](https://stackblitz.com/)
-- [Angular YT Channel](https://www.youtube.com/@Angular/featured)
