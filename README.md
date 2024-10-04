@@ -2,11 +2,10 @@
   <img width="600" height="400" src=".github/assets/Banner.jpg">
 </p>
 
-
 # DIO | Santander Bootcamp Fullstack Java Com Angular e Javascript
 
 Repositório criado para armazenar os projetos desenvolvidos 
-durante o Bootcamp Fullstack Java Com Angular e Javascript da [Digital Innvoation One](https://www.dio.me).
+durante a Formação Java Developer da [Digital Innvoation One](https://www.dio.me).
 
 ## 📚 Documentação
 - [Repositório Curso DIO](https://github.com/digitalinnovationone/trilha-java-basico)
