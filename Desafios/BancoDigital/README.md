@@ -16,7 +16,7 @@ e/ou métodos.
 
 - Incluir o Lombok ao projeto para reduzir verbosidade de código.
 
-## Para incluir o lombok o projeto precisamos em Maven ou Gradle que não é o caso. Porém segue abaixo o passo a passo:
+## Passo a passo da inclução do lombok ao projeto 
 
 ### 1° PASSO 
 - MAVEN (Adicione o Lombok no seu arquivo `pom.xml`)
